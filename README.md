@@ -19,3 +19,10 @@ as using Tailwind for fast utility based development. Includes DaisyUI as part o
 ```shell
   npm run start
 ```
+
+
+### Documentation
+- React: https://reactjs.org/docs/getting-started.html
+- React Router: https://reactrouter.com/docs/en/v6
+- TailwindCSS: https://tailwindcss.com/docs/installation
+- DaisyUI: https://daisyui.com/
